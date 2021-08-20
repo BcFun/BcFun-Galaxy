@@ -15,8 +15,11 @@
   推荐配套课程 [Standford  CS144](https://cs144.github.io/)
 #### 8th edition
 - url:
+
   [book resources](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
+
 - description:
+
   计算机网络经典读物 第8版, pdf暂不提供下载, 参见群文件。
  
 

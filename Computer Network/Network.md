@@ -8,7 +8,7 @@
 
   [习题解答](https://drive.google.com/file/d/1CxVKB9Ezey8ol2gRW44EKFncvhVmiwdK/view?usp=sharing)
 
-- Description:
+- description:
 
   计算机网络经典读物
 

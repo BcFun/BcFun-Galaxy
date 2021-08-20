@@ -1,12 +1,12 @@
 # Computer Architecture
 
-### [Computer Systems A Programmer's Perspective]
+### Computer Systems A Programmer's Perspective
 
 - url : 
 
   [英文第3版](https://drive.google.com/file/d/1t05zqhz7894xjyYXDHE1S6hWjxhwVemL/view?usp=sharing)
 
-- Descirbe:
+- description:
 
   计算机系统经典读物
 

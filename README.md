@@ -2,9 +2,13 @@
 
 ## 注意
   已迁移至语雀知识库
+  
   https://www.yuque.com/igsrxe/we3pfy/readme
+  
   申请加入群组
+  
   https://www.yuque.com/groups/igsrxe/join?token=CZAI146ZFfZsNMfA
+  
   在公开课群中找管理员通过。
 ## 简介
   名为Galaxy, 意为保存Bcfun所共享的学习资源。

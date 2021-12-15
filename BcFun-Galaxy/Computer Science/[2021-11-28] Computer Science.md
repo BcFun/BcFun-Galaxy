@@ -1,15 +1,11 @@
 # Computer Science
-<h3>Computer Science CS50</h3>
-<ul>
-<li>
-<p>url :</p>
-<p><a href="https://www.aliyundrive.com/s/yXwGYcib2ED" target="_blank">https://www.aliyundrive.com/s/yXwGYcib2ED</a></p>
-</li>
-<li>
-<p>description:</p>
-<p>哈佛大学开放课程：计算机科学CS50</p>
-</li>
-</ul>
+### Computer Science CS50
+
+- url :  
+  [https://www.aliyundrive.com/s/yXwGYcib2ED](https://www.aliyundrive.com/s/yXwGYcib2ED)
+
+- description:  
+  哈佛大学开放课程：计算机科学 CS50
 
 <br>
   

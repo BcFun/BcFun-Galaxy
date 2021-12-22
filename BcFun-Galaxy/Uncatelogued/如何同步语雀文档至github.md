@@ -33,9 +33,13 @@ GH_REPO=BcFun-Galaxy
 ## 其他
 
 利用 github action，通过 cron 表达式定时执行，目前每周三同步一次。  
-[https://github.com/BcFun/galaxy-yuque-sync/blob/master/.github/workflows/main.yml](https://github.com/BcFun/galaxy-yuque-sync/blob/master/.github/workflows/main.yml)  
-缺点  
-目前是增量同步，不是全量同步  
+https://github.com/BcFun/galaxy-yuque-sync/blob/master/.github/workflows/main.yml
+
+## 1.3.0 特性
+
+- 引入语雀的目录结构
+- 会删除语雀已删除的文章
+
 ​
 
 <br>
